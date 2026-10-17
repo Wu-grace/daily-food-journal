@@ -1,0 +1,7 @@
+# Personal backups and local artifacts
+*備份*.json
+preview.png
+github-publish.zip
+node_modules/
+.env
+.env.*
